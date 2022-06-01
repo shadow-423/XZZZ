@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(三子棋修正.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  五子棋test.cpp
+D:\C语言\解决方案\五子棋\三子棋（转换为五子棋）\game.h(1,1): warning C4828: 文件包含在偏移 0x1e5 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  五子棋游戏.cpp
+D:\C语言\解决方案\五子棋\三子棋（转换为五子棋）\game.h(1,1): warning C4828: 文件包含在偏移 0x1e5 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在运行 C/C++ 代码分析...
+  正在生成代码...
+  三子棋修正.vcxproj -> D:\C语言\解决方案\五子棋\x64\Debug\五子棋.exe
+D:\C语言\解决方案\五子棋\三子棋（转换为五子棋）\五子棋test.cpp(79): warning C6031: 返回值被忽略: “scanf”。
+D:\C语言\解决方案\五子棋\三子棋（转换为五子棋）\五子棋游戏.cpp(115): warning C6031: 返回值被忽略: “scanf”。
+D:\C语言\解决方案\五子棋\三子棋（转换为五子棋）\五子棋游戏.cpp(405): warning C6385: 正在从 "board[x]" 读取无效数据。
+D:\C语言\解决方案\五子棋\三子棋（转换为五子棋）\五子棋游戏.cpp(407): warning C6386: 写入 "board[x]" 时缓冲区溢出。
